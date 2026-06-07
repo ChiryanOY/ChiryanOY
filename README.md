@@ -20,6 +20,9 @@
 <a href="https://www.xiaohongshu.com/user/profile/63c9827c000000002702bf18" target="_blank">
   <img src="https://img.shields.io/badge/Xiaohongshu-小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu">
 </a>
+<a href="https://www.zhihu.com/people/sakamoto-sama" target="_blank">
+  <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu">
+</a>
 <br/>
 </div>
 
