@@ -14,6 +14,12 @@
 <a href="https://github.com/ChiryanOY" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ChiryanOY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<a href="https://chiryanoy.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Homepage-ChiryanOY-2E91E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage">
+</a>
+<a href="https://www.xiaohongshu.com/user/profile/63c9827c000000002702bf18" target="_blank">
+  <img src="https://img.shields.io/badge/Xiaohongshu-小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu">
+</a>
 <br/>
 </div>
 
