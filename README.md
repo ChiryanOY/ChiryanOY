@@ -23,6 +23,9 @@
 <a href="https://www.zhihu.com/people/sakamoto-sama" target="_blank">
   <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu">
 </a>
+<a href="https://x.com/Chiryan_OY" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
 <br/>
 </div>
 
