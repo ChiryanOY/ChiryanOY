@@ -1,21 +1,21 @@
 <div align="center">
 
-# ✦ ᴄʜɪʀʏᴀɴᴏʏ ✦
+# ✦ ᴀᴅʀɪᴀɴᴏʏ ✦
 
 *Compiling My Life...*
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91E5&center=true&vCenter=true&width=500&lines=I'm+ChiryanOY+(SII-Sakamoto);AI+Researcher+@+SII;Generative+Modeling;Quant+in+Polymarket" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91E5&center=true&vCenter=true&width=500&lines=I'm+AdrianOY+(SII-Sakamoto);AI+Researcher+@+SII;Generative+Modeling;Quant+in+Polymarket" alt="Typing SVG" />
 </div>
 
 <a href="mailto:zhiyuanouyang@sii.edu.cn">
   <img src="https://img.shields.io/badge/Email-zhiyuanouyang%40sii.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://github.com/ChiryanOY" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ChiryanOY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/AdrianOY" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-AdrianOY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://chiryanoy.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Homepage-ChiryanOY-2E91E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage">
+<a href="https://adrianoy.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Homepage-AdrianOY-2E91E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage">
 </a>
 <a href="https://www.xiaohongshu.com/user/profile/63c9827c000000002702bf18" target="_blank">
   <img src="https://img.shields.io/badge/Xiaohongshu-小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu">
@@ -23,7 +23,7 @@
 <a href="https://www.zhihu.com/people/sakamoto-sama" target="_blank">
   <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu">
 </a>
-<a href="https://x.com/Chiryan_OY" target="_blank">
+<a href="https://x.com/Adrian_OY" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 <br/>
@@ -53,7 +53,7 @@ My research is deeply rooted in **Generative Modeling** and the application of A
 
 class AI_Researcher {
 public:
-    std::string name = "ChiryanOY (SII-Sakamoto)";
+    std::string name = "AdrianOY (SII-Sakamoto)";
     std::string role = "Researcher @ Shanghai Innovation Institute";
     std::string location = "Shanghai, China";
 
@@ -84,17 +84,17 @@ int main() {
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChiryanOY&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdrianOY&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </a>
 
 <br><br>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ChiryanOY&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E91E5&icon_color=2E91E5&text_color=737373" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChiryanOY&layout=compact&hide_border=true&bg_color=00000000&title_color=2E91E5&text_color=737373" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AdrianOY&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E91E5&icon_color=2E91E5&text_color=737373" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianOY&layout=compact&hide_border=true&bg_color=00000000&title_color=2E91E5&text_color=737373" width="48%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiryanOY&hide_border=true&background=00000000&ring=2E91E5&fire=2E91E5&currStreakLabel=2E91E5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianOY&hide_border=true&background=00000000&ring=2E91E5&fire=2E91E5&currStreakLabel=2E91E5" />
 
 </div>
 
@@ -110,6 +110,6 @@ int main() {
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ChiryanOY&style=flat-square&color=2E91E5&label=Profile%20Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AdrianOY&style=flat-square&color=2E91E5&label=Profile%20Views" alt="Profile Views" />
 
 </div>
